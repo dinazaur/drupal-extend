@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.dinazaur.drupalextend
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
